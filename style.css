@@ -172,27 +172,7 @@ button{
     left:48px;
 }
 
-/* @media screen and (max-width: 1386px) {
-    .left-side-main-page{
-        display: none;
-    }
-    .right-side-main-page {
-        margin: 0 auto;
-        border: none;
-    }
-}
 
-@media screen and (max-width:980px){
-    .right-side-main-page{
-        height: 100%;
-        width: 100%;
-    }
-} */
-
-
-/* ==============================
-   TABLET / SMALL LAPTOP
-   ============================== */
 
 @media screen and (max-width: 1386px) {
 
